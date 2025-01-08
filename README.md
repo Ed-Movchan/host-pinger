@@ -6,3 +6,5 @@
 Ping your hosts
 
 ## Be simple and effective
+
+Flutter application. Made for Android OS only.
